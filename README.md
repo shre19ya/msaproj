@@ -1,4 +1,4 @@
-# msaproj
+# Microservices and Architecture - Order Management System
 The project is an online medicine ordering web application that utilises a 
 microservices architecture to enhance modularity and scalability. This system is 
 developed using Spring Boot, providing a robust framework for creating each 
